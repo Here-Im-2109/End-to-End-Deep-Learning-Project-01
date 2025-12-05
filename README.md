@@ -29,7 +29,7 @@ conda create -n end_to_end_dl python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate end_to_end_dl
 ```
 
 
